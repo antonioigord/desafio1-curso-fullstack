@@ -1,2 +1,2 @@
-# desafio1-curso-fullstack
+# Primeiro Repositório - Curso Full Stack DIO
 Desafio de Projeto sobre Git/GitHub
